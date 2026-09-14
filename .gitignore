@@ -1,0 +1,46 @@
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+*.log
+.vercel/
+# Installed dependencies and generated output
+node_modules/
+dist/
+build/
+coverage/
+.vercel/
+*.log
+
+# Environment variables and credentials
+.env
+.env.*
+*.env
+*.env.*
+*firebase-admin*.json
+*firebase-adminsdk*.json
+*service-account*.json
+*serviceAccount*.json
+*_db_user.txt
+*.pem
+*.key
+*.p12
+*.pfx
+secrets/
+
+# Private recovery-code downloads
+*recovery-codes*.txt
+*recovery_codes*.txt
+
+# Local uploads, backups, and downloaded update packages
+uploads/
+backups/
+NutriChat-backups/
+NutriChat-secrets/
+NutriChat-*.zip
+
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
