@@ -1,8 +1,0 @@
-HNQSOUXRIMLFQ5OOYN7PD3ZWPPVT6ML5  -danky
-THVW7OJSI6AJJCND6BNK5VKSD7YUPTZI  -biswasangshu31
-
-Computer Science and Engineering
-graduate from BRAC Uniersity with experience in
-Python development, NLP research,
-local model inference, backend systems
-and geospatial data engineering and embedded systems.
